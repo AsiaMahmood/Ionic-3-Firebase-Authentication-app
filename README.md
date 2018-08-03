@@ -2,11 +2,11 @@
 The goal is to know how to make ionic Auth app using firebase as a backend 
 
 ---
-<h3>Features</h3>
- 1.SignUp.
- 2.Login.
- 3.Reset Password.
- 4.SignOut.
+## Features
+ 1. SignUp.
+ 2. Login.
+ 3. Reset Password.
+ 4. SignOut.
 
 ## Technology <br>
 * ionic 3 and AngularFire2 
@@ -38,9 +38,9 @@ export interface user={
 
 ---
 ## 2.Pages
-1.Home Page.
-2.Login Page.
-3.ResetPassword page.
+1. Home Page.
+2. Login Page.
+3. ResetPassword page.
 
 I build Tabs app but you can build blank app and just add Login and ResetPassword pages
 
