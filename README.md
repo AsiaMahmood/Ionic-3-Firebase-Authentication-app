@@ -3,6 +3,7 @@ The goal is to know how to make ionic Auth app using firebase as a backend
 
 <h3>Features</h3> <br>
  -SignUp
+ 
  -Login
  -Reset Password
  -SignOut
