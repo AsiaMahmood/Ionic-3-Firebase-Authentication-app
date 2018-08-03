@@ -7,14 +7,10 @@ Technology
 
 </br>
 
-Project Structure
 
+<h2> 1. Set up the Ionic 3 with Firebase Project & Install AngularFire2 </h2>
+ 
+<h3> Install firebase and angularfire2 </h3>
 
-</br>
-
-1. Set up the Ionic 3 with Firebase Project & Install AngularFire2
-
-Install firebase and angularfire2
-
-ionic install firebase angularfire2 --save
+<code> ionic install firebase angularfire2 --save </code>
 
