@@ -2,7 +2,7 @@
 The goal is to know how to make ionic Auth app using firebase as a backend 
 
 Technology
-1- ionic 3 
+1- ionic 3  <br>
 2- AngularFire2 
 
 </br>
